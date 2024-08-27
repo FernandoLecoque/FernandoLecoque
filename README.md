@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  Sou Fernando, estudante de Design Web no Espírito Santo. Estou me aprofundando no desenvolvimento web, com um foco especial em explorar as possibilidades da Inteligência Artificial.
+  🖥️ Sou Fernando, estudante de Design Web no Espírito Santo. Estou me aprofundando no desenvolvimento web, com um foco especial em explorar as possibilidades da Inteligência Artificial.
 
-  Tenho grandes sonhos de trabalhar em projetos que integrem IA e já estou desenvolvendo algumas ideias nesse campo. Estou sempre aberto a aprender com outros profissionais da área e busco me desenvolver cada vez mais na minha carreira.
+  🧠 Tenho grandes sonhos de trabalhar em projetos que integrem IA e já estou desenvolvendo algumas ideias nesse campo. Estou sempre aberto a aprender com outros profissionais da área e busco me desenvolver cada vez mais na minha carreira.
 
 <br>
 
