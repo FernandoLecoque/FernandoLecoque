@@ -16,19 +16,15 @@
 <img align="center" alt="img" src="https://i.pinimg.com/originals/d7/cc/17/d7cc1787d42f144754af9ade7a27ccd3.gif" />
 
 <br>
-
-x
-</p>
-
-<br><br>
-
-<!-- Dropdown -->
 <details>
   <summary>🖥️ Mais Sobre mim</summary>
-  </details>
-  <p>
-x
-  </p>
+  
+Tenho 19 anos e moro no Espírito Santo, Brasil. Já tive algum contato com JavaScript, HTML e CSS, embora ainda não me sinta totalmente confortável com essas tecnologias.
+
+Gosto muito de jogar, especialmente FPS e jogos de ação. Acredito que nossos interesses pessoais podem nos ajudar a abordar e resolver projetos de forma mais criativa e eficiente.
+</details>
+</p>
+
 <br><br>
 
 <!-- Links -->
