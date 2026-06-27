@@ -19,7 +19,7 @@
 <details>
   <summary>🖥️ Mais Sobre mim</summary>
   
-Tenho 19 anos e moro no Espírito Santo, Brasil. Já tive algum contato com JavaScript, HTML e CSS, embora ainda não me sinta totalmente confortável com essas tecnologias.
+Tenho 21 anos e moro no Espírito Santo, Brasil. Já tive algum contato com JavaScript, HTML e CSS, embora ainda não me sinta totalmente confortável com essas tecnologias.
 
 Gosto muito de jogar, especialmente FPS e jogos de ação. Acredito que nossos interesses pessoais podem nos ajudar a abordar e resolver projetos de forma mais criativa e eficiente.
 </details>
